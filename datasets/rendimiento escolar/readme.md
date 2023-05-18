@@ -1,5 +1,6 @@
 # About Dataset
-## on on the performance of high school students in mathematics, including their grades and demographic information. The data was collected from three high schools in the United States.
+## Description
+### This dataset contains the performance of high school students in mathematics, including their grades and demographic information. The data was collected from three high schools in the United States.
 
 ### Columns:
 * Gender: The gender of the student (male/female)
