@@ -2,7 +2,7 @@ Evaluación
 # La evaluación se hará en base a la presentación oral. 
 ## Los siguientes puntos servirán como guía:
 
-- [ ] Respetar las etapas del flujo de trabajo:
+### Respetar las etapas del flujo de trabajo:
 - [ ] Presentación del problema y cómo se abordará usando ML
 - [ ] Presentación del dataset (de donde fue obtenido, créditos, etc.)
 - [ ] Exploración del dataset
